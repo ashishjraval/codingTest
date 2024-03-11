@@ -1,0 +1,18 @@
+// This is valid
+
+{
+  "articles": [
+      {
+          "publishedAt": "2024-01-10T22:41:25Z",
+          "title": "SEC approves bitcoin ETFs (for real this time)",
+          "url": "https://www.engadget.com/sec-approves-bitcoin-etfs-for-real-this-time-224125584.html",
+          "urlToImage": "https://s.yimg.com/ny/api/res/1.2/n6iLNJ_9dtK.fT6WAXK1sA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTU-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/3edf5140-afdd-11ee-bf7c-7918e1b9d963"
+      },
+      {
+          "publishedAt": "2024-01-11T18:18:13Z",
+          "title": "Why Crypto Idealogues Won’t Touch Bitcoin ETFs",
+          "url": "https://www.wired.com/story/bitcoin-etf-cryptocurrencies-split/",
+          "urlToImage": "https://media.wired.com/photos/65a0305c4aaf02fdf493f220/191:100/w_1280,c_limit/Not-Everyone-Is-Jazzed-About-Bitcoin-ETFs-Business-1299911534.jpg"
+      }
+  ]
+}
